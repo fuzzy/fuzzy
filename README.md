@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # GitHub Stats
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fuzzy&count_private=true&include_all_commits=true&theme=tokyonight&showicons=true)]()
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fuzzy&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
